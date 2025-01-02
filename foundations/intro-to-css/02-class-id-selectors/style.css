@@ -1,0 +1,19 @@
+.c1 {
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#test1 {
+    color: #00f;
+    font-size: 36px;
+}
+
+#test2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.c2 {
+    font-size: 24px;
+}
